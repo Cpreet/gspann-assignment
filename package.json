@@ -1,0 +1,7 @@
+{
+  "name": "gspann-assignment",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {}
+}
